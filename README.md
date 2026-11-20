@@ -2,7 +2,10 @@
 
 Vandaag gingen we met de grote groep aan de slag met de betekenis achter een Digitale tuin. We gingen begrijpend lezen, en een artikel systematisch scannen. Verder hebben we websites geanalyseerd vanuit verschillende webringen om te beoordelen welke Webby zijn, en welke niet. Dit was nuttig,. omdat ik meteen kon oriënteren wat ik graag wou maken. Hier na hebben we onze eigen verkenning gedaan naar wat we graag zouden willen maken.
 
-Ik heb hier al kort over nagedacht. Ik vond het vroeger ontzettend leuk om nieuwe dingen te leren en dan vooral via "buzzfeed" achtige lijstjes, waarin ze info op een tijdlijn, lijstje of ranking zetten.
+Ik heb hier al kort over nagedacht. Ik vond het vroeger ontzettend leuk om nieuwe dingen te leren en dan vooral via "buzzfeed" achtige lijstjes, waarin ze info op een tijdlijn, lijstje of ranking zetten. of andere dingen te beoordelen. Ik heb een grote intresse voor het internet. Waarschijnlijk ga ik zo iets maken.
+
+![Analyse-webby-websites](readme-images/Analysewebsitescmd6.HEIC)
+![Analyse-webby-websites2](readme-images/Analysewebsites2cmd6.HEIC)
 
 Checkout
 
