@@ -1,8 +1,39 @@
-### 16 November
+### Maandag 23 November
+
+### Vrijdag 20 November
+
+### Woensdag 18 November
+
+Op de woensdag hebben we gewerkt aan de visual research naar mijn website. We hebben in de les daarvoor een template op een MIRO bord. De link van het bord staat onderaan de dag. We begonnen de dag met een presentatite/pitch gedaan over ons onderwerp. Mijn gekozen onderwerp is: 'De hercontextualisering van absurde internetcultuur: Memes & Brainrot" de sfeerwoorden die ik heb gekozen zijn "Ruw, Anarchisme, Counterculture, Chaos, Waanzin, Dada" deze woorden heb gekozen omdat internetcultuur veel regels van bestaande kunstvormen over neemt. Het volgt geen regels, het vouwt geen doekjes en iedereen kan iets betekenen voor de scène. Memes en brainrot baseren zich op popcultuur, controverses, en op het absurde. Deze regels gelden ook voor het internet.
+
+![Visual Research Stap 1: Directe visuale beelden. ](readme-images/CMD6VisualResearchstap1.png)
+![Visual Research Stap 2: Abstracte Visuele vertaling. ](readme-images/CMD6visualresearch2.png)
+![Visual Research Stap 3: Uitgangspunten opschrijven](readme-images/CMD6Visualresearch3.png)
+
+![Crazy 8](readme-images/Crazy8cmd6.HEIC)
+
+Checkout
+
+1. Leg uit waar het Visual Research in 3 stappen naartoe werkt?
+   -Analyseer je oorspronkelijke inspiratie, kijk wat je hebt gekozen en waarom
+   -Abstraheer je inspiratie, zoek foto’s die aansluiten bij je originele idee
+   -Schrijf je uitgangspunten op en kijk met wat je kan gaan ontwerpen.
+1. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+   Mijn onderwerp is de hercontextualisering van absurde internetcultuur: Memes & Brainrot, waarin ik foto’s van het internet opnieuw ga ontleden op een zinvolle en interessante manier. Tekst/foto’s
+1. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.Ik zou het liefste plan 4 en 8 uit willen werken.
+
+Miro Link
+https://miro.com/app/board/uXjVEPsWKDc=/?share_link_id=481559051952
+
+### Dinsdag 17 November
+
+### Maandag 16 November
 
 Vandaag gingen we met de grote groep aan de slag met de betekenis achter een Digitale tuin. We gingen begrijpend lezen, en een artikel systematisch scannen. Verder hebben we websites geanalyseerd vanuit verschillende webringen om te beoordelen welke Webby zijn, en welke niet. Dit was nuttig,. omdat ik meteen kon oriënteren wat ik graag wou maken. Hier na hebben we onze eigen verkenning gedaan naar wat we graag zouden willen maken.
 
 Ik heb hier al kort over nagedacht. Ik vond het vroeger ontzettend leuk om nieuwe dingen te leren en dan vooral via "buzzfeed" achtige lijstjes, waarin ze info op een tijdlijn, lijstje of ranking zetten. of andere dingen te beoordelen. Ik heb een grote intresse voor het internet. Waarschijnlijk ga ik zo iets maken.
+
+Het onderwerp wat ik heb gekozen is het hercontextualisering van internet cultuur zoals memes en brainrot. De reden dat ik dit onderwerp heb gekozen is omdat ik dit aanschouw als een zeldzame intressante hobby. Tijdens doomcsrollen op verschillende platformen verzamel ik intressante media die ik zou kunnen schilderen. Ik ben namelijk van mening dat er een bepaalde kunst zit achter het maken van deze onzin. Door een combinatie van pop cultuur, ai, herkenbre thema's en photbashing resulteert in een absurde cultuur.
 
 ![Analyse-webby-websites](readme-images/Analysewebsitescmd6.HEIC)
 ![Analyse-webby-websites2](readme-images/Analysewebsites2cmd6.HEIC)
@@ -13,6 +44,7 @@ Checkout
 2. Een webby website is een toegankelijke website voor mensen met een beperking, maar ook toegankelijk voor iedereen. HEr is een zelf ingerichte gevarieerde website. Het moet ook zich kunnen aanpassen aan de gebruikers instellingen. De websites die me gek genoeg het meeste inspireerde waren de websites die het gekste waren en juist niet aan de regels voldoen van een normale commerciële website. Katten met laserogen, prints en allerlei andere dingen. Het web is anarchistisch en wild, en de mogelijkheid om alles te maken motiveert erg.
 3. Wat mij het meeste inspireerde waren ook de grote digitale collecties van informatie die mensen hebben. Collecties van furry art, kralenkettingen en busfoto's.
    ik ben geïnteresseerd om het zelfde te doen en een collectie maken van de kennis die ik bezit. Natuurlijk wel met een extra element, zodat het leuk blijft.
+   De oneindige mogelijkheden zijn het meest motiverende element.
 
 ## Sprint 0
 
