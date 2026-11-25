@@ -32,9 +32,9 @@ Deze crazy 8 heb ik gemaakt op basis van mijn sfeerwoorden namelijk Chaos en Waa
 Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?
 De gepresenteerde concepten zouden vertaald kunnen worden naar css, maar ik durf niet met zekerheid te zeggen hoe gemakkelijk dit is.
 Wat betreft nieuwe technieken leren, is het antwoord ja. Ik leer bij elk stukje css iets nieuws, omdat ik vrijwel niks ken van html noch css.
-![alt text](IMG_3275.HEIC)
-![alt text](IMG_3276.HEIC)
-![alt text](IMG_3277.HEIC)
+
+![Crazy-eight](crazy8cmd6.HEIC)
+![]
 Checkout
 
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt?
@@ -59,7 +59,7 @@ Ik heb hier al kort over nagedacht. Ik vond het vroeger ontzettend leuk om nieuw
 Het onderwerp wat ik heb gekozen is het hercontextualisering van internet cultuur zoals memes en brainrot. De reden dat ik dit onderwerp heb gekozen is omdat ik dit aanschouw als een zeldzame intressante hobby. Tijdens doomcsrollen op verschillende platformen verzamel ik intressante media die ik zou kunnen schilderen. Ik ben namelijk van mening dat er een bepaalde kunst zit achter het maken van deze onzin. Door een combinatie van pop cultuur, ai, herkenbre thema's en photbashing resulteert in een absurde cultuur.
 
 ![Analyse-webby-websites](readme-images/Analysewebsitescmd6.HEIC)
-![Analyse-webby-websites2](readme-images/Analysewebsites2cmd6.HEIC)
+![Analyse-webby-websites2](readme-images/analysewesbite2cmd6.HEIC)
 
 Checkout
 
