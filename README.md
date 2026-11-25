@@ -16,6 +16,8 @@ onderbouwen in Webby vocabulair?
 
 ### Vrijdag 20 November
 
+Feedback: Met 1 gek element werken, werkt heel goed. Laat de website echter niet afhankelijk zijn van één functie og ontwerp. Als deze funtie niet werkt, is de kans groot dat de rest van de website ook niet zal werken.
+
 ### Woensdag 18 November
 
 Op de woensdag hebben we gewerkt aan de visual research naar mijn website. We hebben in de les daarvoor een template op een MIRO bord. De link van het bord staat onderaan de dag. We begonnen de dag met een presentatite/pitch gedaan over ons onderwerp. Mijn gekozen onderwerp is: 'De hercontextualisering van absurde internetcultuur: Memes & Brainrot" de sfeerwoorden die ik heb gekozen zijn "Ruw, Anarchisme, Counterculture, Chaos, Waanzin, Dada" deze woorden heb gekozen omdat internetcultuur veel regels van bestaande kunstvormen over neemt. Het volgt geen regels, het vouwt geen doekjes en iedereen kan iets betekenen voor de scène. Memes en brainrot baseren zich op popcultuur, controverses, en op het absurde. Deze regels gelden ook voor het internet.
@@ -30,7 +32,9 @@ Deze crazy 8 heb ik gemaakt op basis van mijn sfeerwoorden namelijk Chaos en Waa
 Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?
 De gepresenteerde concepten zouden vertaald kunnen worden naar css, maar ik durf niet met zekerheid te zeggen hoe gemakkelijk dit is.
 Wat betreft nieuwe technieken leren, is het antwoord ja. Ik leer bij elk stukje css iets nieuws, omdat ik vrijwel niks ken van html noch css.
-![alt text](IMG_3275.HEIC) ![alt text](IMG_3276.HEIC) ![alt text](IMG_3277.HEIC)
+![alt text](IMG_3275.HEIC)
+![alt text](IMG_3276.HEIC)
+![alt text](IMG_3277.HEIC)
 Checkout
 
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt?
