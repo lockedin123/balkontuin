@@ -1,5 +1,19 @@
 ### Maandag 23 November
 
+We begonnen vandaag met de bi-weekly geek. We hebben gediscussieerd over onderwerpen mbt. internet en de mens. We hebben een opdracht gemaakt waarin we vragen moeten stellen bij een hoofdvraag zodat we een meer genuanceerd antwoord kunnen vormen.
+Het was voor deze opdracht ook belangrijk dat we wisten welke onderzoekmethodes het beste waren per vraag.
+
+![Onze-team1-biweekly-geek](readme-images/cmd6biweeklygeek1.HEIC)
+![Onze-team2-biweekly-geek](readme-images/cmd6biweeklygeek2.HEIC)
+![Cheat-sheet-Onderzoeksmethodes](readme-images/cmd6onderzoek.HEIC)
+
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+Wanneer een website tekst bevat die niet schaalbaar is en van het scherm verdwijnt. Het is ook belangrijk dat de foto’s en andere dingen ook schaalbaar blijven. Dit doe je door een grid of layout te gebruiken.
+Vertel welke volgende stap je neemt om je website responsive te maken.
+Het lijkt mij verstandig om inderdaad te gaan werken vanuit een grid en of een lay-out zodat het scherm mee schaalt.
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd)
+onderbouwen in Webby vocabulair?
+
 ### Vrijdag 20 November
 
 ### Woensdag 18 November
@@ -12,6 +26,11 @@ Op de woensdag hebben we gewerkt aan de visual research naar mijn website. We he
 
 ![Crazy 8](readme-images/Crazy8cmd6.HEIC)
 
+Deze crazy 8 heb ik gemaakt op basis van mijn sfeerwoorden namelijk Chaos en Waanzin. De beste ideën in de crazy 8 zijn idee 4 en idee 8. Een logisch schermbouwen met een of 2 absurde elementen. De uitgangspunten waren opzich wel te herleiden, aldus Claudia en Teun.
+Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?
+De gepresenteerde concepten zouden vertaald kunnen worden naar css, maar ik durf niet met zekerheid te zeggen hoe gemakkelijk dit is.
+Wat betreft nieuwe technieken leren, is het antwoord ja. Ik leer bij elk stukje css iets nieuws, omdat ik vrijwel niks ken van html noch css.
+![alt text](IMG_3275.HEIC) ![alt text](IMG_3276.HEIC) ![alt text](IMG_3277.HEIC)
 Checkout
 
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt?
@@ -51,6 +70,13 @@ Checkout
 ## 13 november
 
 Ik heb deze dag gewerkt aan Schetsen en Interactie gedaan. Ik heb eerst schetsen gedaan, omdat de Docent voor interactie afwezig was. Het schetsen was niet nieuw voor mij, omdat ik al een achtergrond heb in illustratie. Toch was het even fijn om aan de slag te gaan en paar regels mee te nemen. Wat ik meeneem van het schetsen is het maken van duidelijke omlijningen, en het belang van annotaties bij schetsen. Meeste schetsen hebben annotaties nodig, behalve als ze heel, heel goed zijn.
+
+Hieronder staan de schetsen die we hebben gemaakt als opdracht. Meeste van deze schetsen heb ik nog wat bij gekras, uit vermaak. Daarom zien de schetsen er waarschijnlijk ietsjes anders uit.
+
+![Rechte-lijnen-trekken](readme-images/Rechtelijnentrekkenoefening.HEIC)
+![Vierkanten-tekenen](readme-images/Vierkantentekenen.HEIC)
+![Telefoon-schetsen](readme-images/Telefoontekenen.HEIC)
+![schetsen-app9292](readme-images/9292Demoschets.HEIC)
 
 ### 11 November 2026
 
