@@ -4,7 +4,7 @@ We begonnen vandaag met de bi-weekly geek. We hebben gediscussieerd over onderwe
 Het was voor deze opdracht ook belangrijk dat we wisten welke onderzoekmethodes het beste waren per vraag.
 
 ![Onze-team1-biweekly-geek](readme-images/cmd6biweeklygeek1.HEIC)
-![Onze-team2-biweekly-geek](readme-images/cmd6biweeklygeek2.HEIC)
+![Onze-team2-biweekly-geek](readme-images/CMD6biweeklygeek2.HEIC)
 ![Cheat-sheet-Onderzoeksmethodes](readme-images/cmd6onderzoek.HEIC)
 
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
