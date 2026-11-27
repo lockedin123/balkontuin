@@ -3,8 +3,8 @@
 **************************/
 
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../fonts/ComicRelief-Regular.woff2);
+  font-family: "Urbanist";
+  src: url(../fonts/Urbanist/);
   font-weight: 400;
   font-style: normal;
 }
@@ -15,11 +15,29 @@
 
 html {
   color-scheme: light dark;
+
+  --background: light-dark(#e6e6f0, #0d212e);
+  --color: light-dark(#c1f5ec, #0d212e);
+
+  --background-button: light-dark(#3a5bc9, #3a5bc9);
+  --color-button: light-dark(#c1f5ec, #0d212e);
 }
 
 /**************************
 * MARK: Algemene Styling
 **************************/
+
+.top {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: 30%;
+}
+
+.titel {
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+}
 
 *,
 *::after,
@@ -31,8 +49,23 @@ img {
   max-width: 100%;
 }
 
+.menu {
+  grid-column: 1 / -1;
+  justify-self: center;
+  background-color: #c1c3c9;
+  border: 8px solid #3a5bc9;
+  padding: 2em 2em;
+  justify-content: center;
+  margin: 1.5rem auto;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  gap: 3em;
+}
+
 body {
-  font-family: "Comic Relief", system-ui;
+  font-family: "Urbanist", system-ui;
+  background-color: var(--background);
 }
 
 /**************************

@@ -1,3 +1,30 @@
+### Donderdag 26 november
+
+Vandaag heb ik mijn laatste voorbereidingen gedaan aan de retrospective. Ik moet heel eerlijk zijn in de learning log, dus dat zal ik ook zijn. Ik ben veelste laat begonnen met het schrijven in html en eigenlijk aangeven dat ik er geen bal van begrijp. Justus heeft me heel erg geholpen hirmee. Ik heb W3schools, webdev, en paar gemini searches gebruikt om de code beter te begrijpen. En eerlijk gezegd is het nog niet af, omdat het niet proper reageert maar ik heb wel wat gedaan, en daar ben ik al redelijk trots op. er valt nog veel te doen echter.
+
+### Woensdag 25 november
+
+Deze les hebben we gekeken naar de vaktermen en het belang van de visuele vormgeving. De kern van de presentatie ging over het belang van vorm, cohesie en balans.Dit kan je vooral bereiken door het gebruiken van een consistent ontwerp systeem. Ik heb deze les schetsen gemaakt en heb gekeken naar welke Gestalt-principes verwerkt kunnen worden in mijn eindproduct. Ik heb besloten dat ik eigenlijk al veel had gedaan wat betreft de 3 principes (contrast, hiërarchie en witruimte). In mijn ontwerp kies ik ervoor om op mobiel een heel compact ontwerp te maken en op een groter scherm juist veel witruimte over te laten.
+
+Ook had ik een zinnig gesprek met Justus waar ik veel waarde aan hechtte, namelijk het sentiment om juist te beginenn en dan om te kijken hoe ver je komt.
+
+![De-Originele-Schets](readme-images/CMD6originele-plan.HEIC)
+![De-drie-schetsen](readme-images/CMD63schetsen.HEIC)
+
+Noem 3 Gestalt- of Design-principes op en laat de ander uitleggen wat ze betekenen en doen.
+
+1. Symmetrie, het spiegelen van foto’s en teksten. Een van de makkelijkste manieren om cohesie en rust op de website te creëren.
+2. Ingevulde hiaten/Spelen met negatieve ruimte. Het suggereren van vormen die er niet daadwerkelijk zijn.
+3. Balans. Het ervoor zorgen dat een pagina logisch opgemaakt is.
+   Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? 
+   Werken in een grid geeft de ontwerper een vast ontwerpsysteem om in te bouwen. Dit zorgt voor een logische opstelling en geeft rust. Je bent echter wel vrij om te spelen met deze grid. Niet alles hoeft een perfect vierkant, en symmetrisch.
+   Welk principe neem je mee in een laatste iteratie van je eigen Garden? 
+   Ik denk dat het voor mij handig is om te werken in een grid, met meer aandacht voor de hiërarchie.
+
+### Dinsdag 24 November
+
+Deze dag heb ik vooral besteed aan het updaten van mijn readme. Ik heb foto's toegevoegd, en vooral paar teksten opnieuw gechreven. Ook heb ik de praticums waarop ik ahcterliep gedaan.
+
 ### Maandag 23 November
 
 We begonnen vandaag met de bi-weekly geek. We hebben gediscussieerd over onderwerpen mbt. internet en de mens. We hebben een opdracht gemaakt waarin we vragen moeten stellen bij een hoofdvraag zodat we een meer genuanceerd antwoord kunnen vormen.
